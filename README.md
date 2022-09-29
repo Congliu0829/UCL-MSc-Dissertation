@@ -1,1 +1,8 @@
 # UCL-MSc-Dissertation
+
+This dissertation is completed in coorpertation with [InstaDeep Ltd](https://www.instadeep.com). Codes are not avaliable unless requested according to the policy.
+
+# Abstract
+Drug discovery is a vital and promising research area in the development of human beings. Penicillin was discovered and greatly improved the ability of people to fight germs. Aspirin keeps people safe from most physical pain. These brilliant drugs have been discovered for the benefit of all mankind. Molecule properties and interactions between molecules (e.g. binding affinity and binding prediction) have been identified as key factors in drug discovery. Recent re- search has shown the great impact brought by deep learning on predicting molecule properties and interactions. The successes of such computational methods mostly rely on good-quality molecule representations. However, most existing deep learning methods are based only on amino acid-level input; thus, biomolecular structural information at the atomic level is not fully utilized, meaning that essential interactions among atoms are also neglected. Given the natural geometric forms of molecules, we propose an atomic-level graph neural network for modelling the geometric structure of molecules as well as the interaction between molecules and thus deriving a better representation of molecules. \
+
+The contributions made by this dissertation are listed as 1. Provide clear data processing steps for the PDBbind data set v2016. 2. Investigate the performance of models from transferring amino acid-level graphs to atomic-level graphs by three-stage experiments. Furthermore, we also provide results from other work for comparison of the binding affinity task using the PDBbind data set.
